@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3254a2203a8ad0a4d931b7056e72e79d, type: 3}
+  m_Name: WindTribune
+  m_EditorClassIdentifier: 
+  sales: 600
+  earning: 0
+  water: 0
+  resource: 80
+  useRes: 0
+  energy: 0
+  awardRes: 0
+  awardWater: 0
+  awardEnergy: 300
+  awardsParticle: {fileID: 5024009746357069194, guid: ec3f674830402cc45bce805cf6493db7, type: 3}
+  sprite: {fileID: 21300000, guid: 5a6526b859a534140a937799996a1bce, type: 3}
+  awardSprite: {fileID: 21300000, guid: a140d0ac8dad4444d9e8854c7e637171, type: 3}
+  obj: {fileID: 100002, guid: 0b6fafa63b69b174584365f2641586a4, type: 3}

@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 766eb77c2d9b69141b67d5bfc9d4e0df, type: 3}
+  m_Name: SolarFactory
+  m_EditorClassIdentifier: 
+  sales: 20000
+  earning: 0
+  water: 0
+  resource: 1000
+  useRes: 0
+  energy: 0
+  awardRes: 100
+  awardWater: 0
+  awardEnergy: 0
+  awardsParticle: {fileID: 5024009746357069194, guid: ec3f674830402cc45bce805cf6493db7, type: 3}
+  sprite: {fileID: 21300000, guid: 92b28a18b2264aa4585f6286d1eb353c, type: 3}
+  awardSprite: {fileID: 21300000, guid: 63af52b5b92b10c4594f1085a1a0ab94, type: 3}
+  obj: {fileID: 3204686336746577733, guid: 621006d235cf12a4ea7aca39ea4caf4b, type: 3}
